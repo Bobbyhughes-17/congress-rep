@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(135, 132, 136);
+    color: rgb(10, 4, 4);
+    font-size: 20px;
+    
+}
+
+#rep {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: rgb(0, 1, 7);
+}
+
+li {
+    color: rgb(8, 0, 0);
+    text-align: center;
+    border: 1px solid rgb(14, 5, 5);
+    padding: 10px;
+    margin-left: 65px;
+    margin-right: 65px;
+}
